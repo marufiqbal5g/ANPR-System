@@ -1,0 +1,6 @@
+names:
+- number plate
+path: /content/drive/MyDrive/Transport AI/DEMO_PROJECT
+test: /content/drive/MyDrive/Transport AI/DEMO_PROJECT/datasets/images/test
+train: /content/drive/MyDrive/Transport AI/DEMO_PROJECT/datasets/images/train
+val: /content/drive/MyDrive/Transport AI/DEMO_PROJECT/datasets/images/valid
